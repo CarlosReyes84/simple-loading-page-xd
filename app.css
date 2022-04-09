@@ -16,6 +16,7 @@ body {
     z-index: -1;
     top: 0;
     left: 0;
+    filter: blur(30px);
 }
 p {
     margin: 0;
